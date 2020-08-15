@@ -1,0 +1,26 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  max-width: 50em;
+  margin: auto;
+  color: rgb(78, 167, 240); 
+  border: 5px solid rgb(49, 117, 173);
+  box-shadow: 10px 10px rgb(4, 48, 83);
+  text-align: center;
+  padding: 16px;
+  
+}
+
+img{
+  height: 150px; 
+  border-radius: 10%;
+}
+
+html{
+  margin: 16px;
+}
+
+.social a {
+  text-decoration: none;
+  margin: 18px;
+  color: black;
+}
